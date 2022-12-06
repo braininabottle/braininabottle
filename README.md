@@ -7,10 +7,10 @@
 </p>
 
 - 🖥️ I'm a fullstack MERN developer.
-- 📚 I've studied in Universidad del Desarrollo de Santiago de Chile. 🆑
+- 📚 I've studied in "Universidad del Desarrollo de Santiago de Chile". 🆑
 - 🌱 I’m currently learning Typescrit, Firebase, Redux.
 - 🗣️ I speak english and swedish .
-- 💞 I like to do outdoor exercise and listening to music.
+- 💞 I like to exercise outdoors and listen to music.
 
 <!---
 braininabottle/braininabottle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
