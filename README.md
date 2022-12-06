@@ -1,5 +1,5 @@
 <h1>¡Hi everyone, I am Juan Pablo Lagos Moreno</h1> 
-
+<h2>Full Stack MERN Developer</h2>
 
 - 👋 Hi, I’m @braininabottle
 - 👀 I’m interested in ...
