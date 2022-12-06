@@ -1,4 +1,4 @@
-<h1>¡Hi everyone, I am Juan Pablo Lagos Moreno</h1> 
+<h1>Hi everyone, I am Juan Pablo Lagos Moreno</h1> 
 <h2>Full Stack MERN Developer</h2>
 <p dir="auto">
   <a href="linkedin.com/in/jplm91"> 
@@ -7,7 +7,7 @@
 </p>
 
 - 🖥️ I'm a fullstack MERN developer.
-- 📚 I've studied in "Universidad del Desarrollo de Santiago de Chile". 🆑
+- 📚 I've studied in "Universidad del Desarrollo de Santiago de Chile". 📍🆑
 - 🌱 I’m currently learning Typescrit, Firebase, Redux.
 - 🗣️ I speak english and swedish .
 - 💞 I like to do exercise and listening to music.
