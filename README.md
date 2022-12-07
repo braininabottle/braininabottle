@@ -1,4 +1,4 @@
-<h1>Hi everyone, I am Juan Pablo</h1> 
+<h1>Hi everyone 👋, I am Juan Pablo</h1> 
 <h2>Full Stack MERN Developer 🖥️</h2>
 <p dir="auto">
   <a href="linkedin.com/in/jplm91"> 
